@@ -8,6 +8,6 @@ public class ApiExemploUsuarioApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ApiExemploUsuarioApplication.class, args);
-    }
 
+    }
 }
