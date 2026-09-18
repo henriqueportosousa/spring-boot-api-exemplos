@@ -3,8 +3,8 @@ package br.com.fatec.apiexemplousuario.service;
 import br.com.fatec.apiexemplousuario.model.Usuario;
 import br.com.fatec.apiexemplousuario.repository.UsuarioRepository;
 import org.springframework.stereotype.Service;
+import org.springframework.web.bind.annotation.RequestBody;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
